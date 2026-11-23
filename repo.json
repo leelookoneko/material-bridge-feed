@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Allen",
+    "Author": "Leeloo",
     "Name": "Material Bridge",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.5.7.0",
+    "AssemblyVersion": "0.5.7.1",
     "Description": "Crafting lists, material planning, and experimental read-only live synthesis diagnostics, predictions and manual comparisons. New crafting features require in-game validation.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -11,15 +11,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Crafting projects and materials — 0.5.7.0 TEST 1.",
+    "Punchline": "Crafting projects and live synthesis diagnostics — TEST 2.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.0.zip",
-    "LastUpdate": 1795425597,
-    "Changelog": "0.5.7.0 TEST 1: live crafting gauges and recipe/stat readers, supported crafting action IDs, one-action predictions, manual predicted-vs-actual comparison, combo history, and copyable diagnostics. Experimental action observer is OFF by default. In-game verification pending; NO automatic synthesis."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.1.zip",
+    "LastUpdate": 1795426149,
+    "Changelog": "0.5.7.1 TEST 2: fixed update version and changed author credit to Leeloo. Crafting readers, action previews and manual comparisons remain experimental. Native action observer is OFF by default. No automatic synthesis."
   }
 ]
