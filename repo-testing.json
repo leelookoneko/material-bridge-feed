@@ -1,25 +1,25 @@
 [
   {
     "Author": "Leeloo",
-    "Name": "Material Bridge (TEST)",
+    "Name": "Field & Forge (TEST)",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.5.7.3",
-    "Description": "DEVELOPMENT TEST ONLY: read-only crafting previews, live recipe/stat readers, manual comparison, and opt-in passive crafting action diagnostics. Not yet verified inside FFXIV.",
+    "AssemblyVersion": "0.5.7.4",
+    "Description": "Preview Field & Forge's saved fishing settings and detachable acquisition progress popup. The live fishing and gathering/hunting automation workers are not built yet.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Material Bridge TEST 4 — standalone foundation.",
+    "Punchline": "Field & Forge TEST 5 — progress preview and fishing policy.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.3-test.4.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.3-test.4.zip",
-    "LastUpdate": 1795428001,
-    "Changelog": "0.5.7.3 TEST 4: Required Plugins readiness list for vnavmesh, Lifestream, Rotation Solver Reborn and AutoHook (feature-specific); enhanced in-plugin Hunting database with multiple drops, manual drop recording, mob ID, and current-position capture. New standalone replacement roadmap. No automatic hunting/gathering or auto loot learning yet. Author Leeloo; native action observer remains OFF by default."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.4-test.5.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.4-test.5.zip",
+    "LastUpdate": 1795428693,
+    "Changelog": "0.5.7.4 TEST 5: visible rebrand to Field & Forge (internal name MaterialBridge preserved), /fieldandforge command alias, Fishing settings for verified bait and target-safe Release List policies, and a detachable gathering/hunting/fishing progress-window PREVIEW. No live fishing or acquisition automation added in this version. Author Leeloo."
   }
 ]
