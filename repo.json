@@ -3,8 +3,8 @@
     "Author": "Allen",
     "Name": "Material Bridge",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.4.1.0",
-    "Description": "Open the native Artisan, Hunter and GatherBuddy Reborn interfaces and coordinate manual Artisan imports.",
+    "AssemblyVersion": "0.5.0.0",
+    "Description": "Build crafting projects and review their sub-crafts and material shortages.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -17,9 +17,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.4.1.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.4.1.0.zip",
-    "LastUpdate": 1795411378,
-    "Changelog": "Drag the minimized bar and dock the full Artisan Crafting Lists window."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.0.0.zip",
+    "LastUpdate": 1795415349,
+    "Changelog": "Standalone Crafting Lists preview with Artisan import, sub-craft and material planning, and saved gearset preferences."
   }
 ]
