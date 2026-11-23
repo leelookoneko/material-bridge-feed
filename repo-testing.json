@@ -3,7 +3,7 @@
     "Author": "Leeloo",
     "Name": "Field & Forge (TEST)",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.5.7.4",
+    "AssemblyVersion": "0.5.7.5",
     "Description": "Preview Field & Forge's saved fishing settings and detachable acquisition progress popup. The live fishing and gathering/hunting automation workers are not built yet.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -11,15 +11,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Field & Forge TEST 5 — progress preview and fishing policy.",
+    "Punchline": "Field & Forge TEST 6 — native single synthesis preview.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.4-test.5.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.4-test.5.zip",
-    "LastUpdate": 1795428693,
-    "Changelog": "0.5.7.4 TEST 5: visible rebrand to Field & Forge (internal name MaterialBridge preserved), /fieldandforge command alias, Fishing settings for verified bait and target-safe Release List policies, and a detachable gathering/hunting/fishing progress-window PREVIEW. No live fishing or acquisition automation added in this version. Author Leeloo."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.5-test.6.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.5-test.6.zip",
+    "LastUpdate": 1795429450,
+    "Changelog": "0.5.7.5 TEST 6: Field & Forge visual branding and /fieldandforge alias (same MaterialBridge identity); floating crafting material progress overlay; fishing preferences for verified bait, Release List targets and unknown fish learning (policy only, not in-game fishing yet); independent native one-synthesis preparation/start; removed Artisan.StartListById dependency. Manual crafting actions still required, no autonomous rotations or list completion. Author Leeloo."
   }
 ]
