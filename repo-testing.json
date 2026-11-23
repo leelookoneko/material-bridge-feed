@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Allen",
+    "Name": "Material Bridge (TEST)",
+    "InternalName": "MaterialBridge",
+    "AssemblyVersion": "0.5.7.0",
+    "Description": "DEVELOPMENT TEST ONLY: read-only crafting previews, live recipe/stat readers, manual comparison, and opt-in passive crafting action diagnostics. Not yet verified inside FFXIV.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Material Bridge TEST 1 — manual crafting only.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.0-test.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.0-test.1.zip",
+    "LastUpdate": 1795425596,
+    "Changelog": "TEST 1: new read-only crafting data, action IDs, predictions, one-step comparisons, guarded combo observation (OFF by default), safety isolation and copyable diagnostics. Native game behavior NOT verified. Does not perform synthesis."
+  }
+]
