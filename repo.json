@@ -3,7 +3,7 @@
     "Author": "Allen",
     "Name": "Material Bridge",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.1.0",
     "Description": "Open the native Artisan, Hunter and GatherBuddy Reborn interfaces and coordinate manual Artisan imports.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -17,9 +17,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.3.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.3.0.0.zip",
-    "LastUpdate": 1795408470,
-    "Changelog": "Minimize to a compact restore bar. Switch pages from four tabs across the top."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.3.1.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.3.1.0.zip",
+    "LastUpdate": 1795408947,
+    "Changelog": "Minimize using the small arrow beside the close button."
   }
 ]
