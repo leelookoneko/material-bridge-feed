@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Allen",
+    "Name": "Material Bridge",
+    "InternalName": "MaterialBridge",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Open the native Artisan, Hunter and GatherBuddy Reborn interfaces and coordinate manual Artisan imports.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A minimizable workspace for your material lists.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.1.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.1.0.0.zip",
+    "LastUpdate": 1795407367
+  }
+]
