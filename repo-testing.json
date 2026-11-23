@@ -3,7 +3,7 @@
     "Author": "Leeloo",
     "Name": "Material Bridge (TEST)",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.5.7.1",
+    "AssemblyVersion": "0.5.7.2",
     "Description": "DEVELOPMENT TEST ONLY: read-only crafting previews, live recipe/stat readers, manual comparison, and opt-in passive crafting action diagnostics. Not yet verified inside FFXIV.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -11,15 +11,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Material Bridge TEST 2 — manual crafting only.",
+    "Punchline": "Material Bridge TEST 3 — first-craft progress.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.1-test.2.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.1-test.2.zip",
-    "LastUpdate": 1795426149,
-    "Changelog": "0.5.7.1 TEST 2: credit Leeloo and refresh test build. The experimental action observer remains OFF by default. In-game verification pending."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.2-test.3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.2-test.3.zip",
+    "LastUpdate": 1795428000,
+    "Changelog": "0.5.7.2 TEST 3: Adds Artisan-style first-craft recipe completion counters by crafting notebook level band on the Crafting page (e.g. 41-45 [0/9], 31-35 ✓). Includes Hunter/GatherBuddy integration research. Author Leeloo. Experimental action observer remains OFF by default. No automatic synthesis; in-game validation pending."
   }
 ]
