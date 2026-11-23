@@ -3,7 +3,7 @@
     "Author": "Allen",
     "Name": "Material Bridge",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.5.2.0",
+    "AssemblyVersion": "0.5.3.0",
     "Description": "Build crafting projects and review their sub-crafts and material shortages.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -17,9 +17,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.2.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.2.0.zip",
-    "LastUpdate": 1795417009,
-    "Changelog": "Show final recipes and generated sub-crafts in one queue. Save preferred sub-craft recipes per project."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.3.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.3.0.zip",
+    "LastUpdate": 1795417435,
+    "Changelog": "Ingredient table, shortage export and Begin crafting for matching Artisan lists."
   }
 ]
