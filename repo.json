@@ -3,7 +3,7 @@
     "Author": "Leeloo",
     "Name": "Material Bridge",
     "InternalName": "MaterialBridge",
-    "AssemblyVersion": "0.5.7.2",
+    "AssemblyVersion": "0.5.7.3",
     "Description": "Crafting lists, material planning, and experimental read-only live synthesis diagnostics, predictions and manual comparisons. New crafting features require in-game validation.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -11,15 +11,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Crafting projects and first-craft progress — TEST 3.",
+    "Punchline": "Crafting, material planning and monster drop records — TEST 4.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/leelookoneko/material-bridge-feed",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.2.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.2.zip",
-    "LastUpdate": 1795428000,
-    "Changelog": "0.5.7.2 TEST 3: Adds Artisan-style first-craft recipe completion counters by crafting notebook level band on the Crafting page (e.g. 41-45 [0/9], 31-35 ✓). Includes Hunter/GatherBuddy integration research. Author Leeloo. Experimental action observer remains OFF by default. No automatic synthesis; in-game validation pending."
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/leelookoneko/material-bridge-feed/main/MaterialBridge-0.5.7.3.zip",
+    "LastUpdate": 1795428001,
+    "Changelog": "0.5.7.3 TEST 4: Required Plugins readiness list for vnavmesh, Lifestream, Rotation Solver Reborn and AutoHook (feature-specific); enhanced in-plugin Hunting database with multiple drops, manual drop recording, mob ID, and current-position capture. New standalone replacement roadmap. No automatic hunting/gathering or auto loot learning yet. Author Leeloo; native action observer remains OFF by default."
   }
 ]
